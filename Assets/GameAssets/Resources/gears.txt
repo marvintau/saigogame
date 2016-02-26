@@ -1,0 +1,21 @@
+Topwear
+   shirt
+      Shirt-Belly       T4
+      Shirt-Bottom      T2
+      Shirt-Chest       T3
+      Shirt-Arm-Front   T1
+      Shirt-Arm-Back    T5
+
+   underwear
+      Shirt-Chest       Underwear
+
+Bottom
+   yellow
+      Pants-Hip         K2
+      Pants-Front       K1
+      Pants-Back        K3
+
+   black
+      Pants-Hip         Shorts-2
+      Pants-Front       Shorts-1
+      Pants-Back        Shorts-3

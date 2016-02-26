@@ -1,0 +1,12 @@
+PersonalBest
+   20.00
+   20.00
+   20.00
+
+Coins
+   10
+
+PurchasedItems
+   shirt
+   yellow
+   black
