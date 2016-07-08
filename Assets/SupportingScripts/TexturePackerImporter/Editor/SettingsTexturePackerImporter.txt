@@ -1,0 +1,32 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/SaigoGameAssets/Resources/Textures/Difficulty-Scene/DifficultySelect.tpsheet
+- Assets/SaigoGameAssets/Resources/Textures/Diving-Game-Scene/diving-play.tpsheet
+- Assets/SaigoGameAssets/Resources/Textures/Diving-Game-Scene/diving-play-icons.tpsheet
+- Assets/SaigoGameAssets/Resources/Textures/Game-Scene/indicator.tpsheet
+- Assets/SaigoGameAssets/Resources/Textures/Gear-Scene/gear-atlas.tpsheet
+- Assets/SaigoGameAssets/Resources/Textures/Gear-Scene/gear-icons.tpsheet
+- Assets/SaigoGameAssets/Resources/Textures/Gear-Scene/light.tpsheet
+- Assets/SaigoGameAssets/Resources/Textures/Gear-Scene/shiny.tpsheet
+- Assets/SaigoGameAssets/Resources/Textures/Result-Scene/result-atlas.tpsheet
+textureFileNames:
+- Assets/SaigoGameAssets/Resources/Textures/Difficulty-Scene/DifficultySelect.png
+- Assets/SaigoGameAssets/Resources/Textures/Diving-Game-Scene/diving-play.png
+- Assets/SaigoGameAssets/Resources/Textures/Diving-Game-Scene/diving-play-icons.png
+- Assets/SaigoGameAssets/Resources/Textures/Game-Scene/indicator.png
+- Assets/SaigoGameAssets/Resources/Textures/Gear-Scene/gear-atlas.png
+- Assets/SaigoGameAssets/Resources/Textures/Gear-Scene/gear-icons.png
+- Assets/SaigoGameAssets/Resources/Textures/Gear-Scene/light.png
+- Assets/SaigoGameAssets/Resources/Textures/Gear-Scene/shiny.png
+- Assets/SaigoGameAssets/Resources/Textures/Result-Scene/result-atlas.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
