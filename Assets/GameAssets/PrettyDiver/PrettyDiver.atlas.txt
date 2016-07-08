@@ -1,0 +1,374 @@
+
+PrettyDiver.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dive/Bikini/Shirt-Chest
+  rotate: false
+  xy: 1511, 1426
+  size: 535, 620
+  orig: 535, 620
+  offset: 0, 0
+  index: -1
+Dive/MemorySwimSuit/Shirt-Chest
+  rotate: true
+  xy: 713, 18
+  size: 509, 662
+  orig: 509, 662
+  offset: 0, 0
+  index: -1
+Dive/ProDiveSuit/Shirt-Chest
+  rotate: true
+  xy: 1377, 68
+  size: 459, 669
+  orig: 459, 669
+  offset: 0, 0
+  index: -1
+Dive/Special/Daisy/Accessory-Hair
+  rotate: false
+  xy: 998, 1209
+  size: 508, 542
+  orig: 508, 542
+  offset: 0, 0
+  index: -1
+Dive/Special/DuckLifebuoy/Accessory-Waist
+  rotate: false
+  xy: 713, 529
+  size: 984, 604
+  orig: 984, 604
+  offset: 0, 0
+  index: -1
+Dive/Special/Snorkel/Accessory-Face
+  rotate: true
+  xy: 2, 209
+  size: 623, 709
+  orig: 623, 709
+  offset: 0, 0
+  index: -1
+Expression
+  rotate: false
+  xy: 1508, 1212
+  size: 152, 212
+  orig: 152, 212
+  offset: 0, 0
+  index: -1
+Foot-1
+  rotate: true
+  xy: 1699, 530
+  size: 446, 332
+  orig: 446, 332
+  offset: 0, 0
+  index: -1
+Foot-2
+  rotate: true
+  xy: 1699, 978
+  size: 446, 338
+  orig: 446, 338
+  offset: 0, 0
+  index: -1
+Hair-blue
+  rotate: true
+  xy: 297, 1135
+  size: 616, 699
+  orig: 616, 699
+  offset: 0, 0
+  index: -1
+Hand-2
+  rotate: true
+  xy: 309, 52
+  size: 155, 318
+  orig: 155, 318
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: true
+  xy: 2, 2
+  size: 205, 305
+  orig: 205, 305
+  offset: 0, 0
+  index: -1
+Shank-1
+  rotate: false
+  xy: 2, 834
+  size: 293, 1212
+  orig: 293, 1212
+  offset: 0, 0
+  index: -1
+Shank-2
+  rotate: true
+  xy: 297, 1753
+  size: 293, 1212
+  orig: 293, 1212
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 297, 878
+  size: 258, 255
+  orig: 258, 255
+  offset: 0, 0
+  index: -1
+transparent
+  rotate: false
+  xy: 1508, 1178
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+
+PrettyDiver2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm-1
+  rotate: false
+  xy: 835, 1318
+  size: 214, 721
+  orig: 214, 721
+  offset: 0, 0
+  index: -1
+Arm-2
+  rotate: false
+  xy: 619, 1315
+  size: 214, 724
+  orig: 214, 724
+  offset: 0, 0
+  index: -1
+Belly
+  rotate: true
+  xy: 663, 1003
+  size: 310, 579
+  orig: 310, 579
+  offset: 0, 0
+  index: -1
+Chest
+  rotate: false
+  xy: 1648, 1422
+  size: 398, 617
+  orig: 398, 617
+  offset: 0, 0
+  index: -1
+Dive/BalletSuit/Accessory-Waist
+  rotate: true
+  xy: 351, 1254
+  size: 785, 266
+  orig: 785, 266
+  offset: 0, 0
+  index: -1
+Dive/Bikini/Shirt-Bottom
+  rotate: true
+  xy: 1648, 534
+  size: 401, 391
+  orig: 401, 391
+  offset: 0, 0
+  index: -1
+Dive/ElasticSwimSuit/Shirt-Bottom
+  rotate: false
+  xy: 1244, 831
+  size: 402, 495
+  orig: 402, 495
+  offset: 0, 0
+  index: -1
+Dive/MemorySwimSuit/Shirt-Bottom
+  rotate: false
+  xy: 813, 506
+  size: 402, 495
+  orig: 402, 495
+  offset: 0, 0
+  index: -1
+Dive/SeperateSwimSuit/Shirt-Belly
+  rotate: false
+  xy: 351, 1035
+  size: 310, 217
+  orig: 310, 217
+  offset: 0, 0
+  index: -1
+Dive/Special/Lifebuoy/Accessory-Waist
+  rotate: true
+  xy: 349, 103
+  size: 897, 462
+  orig: 897, 462
+  offset: 0, 0
+  index: -1
+Dive/Special/PurpleHair/Accessory-Head
+  rotate: false
+  xy: 1051, 1328
+  size: 595, 711
+  orig: 595, 711
+  offset: 0, 0
+  index: -1
+Hand-1
+  rotate: false
+  xy: 1217, 512
+  size: 155, 317
+  orig: 155, 317
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: true
+  xy: 1287, 9
+  size: 501, 500
+  orig: 501, 500
+  offset: 0, 0
+  index: -1
+Hip
+  rotate: false
+  xy: 1648, 937
+  size: 393, 483
+  orig: 393, 483
+  offset: 0, 0
+  index: -1
+Thigh-1
+  rotate: false
+  xy: 2, 8
+  size: 345, 992
+  orig: 345, 992
+  offset: 0, 0
+  index: -1
+Thigh-2
+  rotate: false
+  xy: 2, 1002
+  size: 347, 1037
+  orig: 347, 1037
+  offset: 0, 0
+  index: -1
+Wings
+  rotate: false
+  xy: 813, 2
+  size: 472, 502
+  orig: 472, 502
+  offset: 0, 0
+  index: -1
+
+PrettyDiver3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dive/BalletSuit/Shirt-Belly
+  rotate: true
+  xy: 1345, 516
+  size: 300, 579
+  orig: 300, 579
+  offset: 0, 0
+  index: -1
+Dive/BalletSuit/Shirt-Bottom
+  rotate: true
+  xy: 1049, 1625
+  size: 401, 498
+  orig: 401, 498
+  offset: 0, 0
+  index: -1
+Dive/BalletSuit/Shirt-Chest
+  rotate: false
+  xy: 483, 776
+  size: 400, 605
+  orig: 400, 605
+  offset: 0, 0
+  index: -1
+Dive/ElasticSwimSuit/Shirt-Belly
+  rotate: false
+  xy: 1716, 1447
+  size: 299, 579
+  orig: 299, 579
+  offset: 0, 0
+  index: -1
+Dive/ElasticSwimSuit/Shirt-Chest
+  rotate: false
+  xy: 2, 679
+  size: 479, 702
+  orig: 479, 702
+  offset: 0, 0
+  index: -1
+Dive/MemorySwimSuit/Shirt-Belly
+  rotate: false
+  xy: 1716, 866
+  size: 299, 579
+  orig: 299, 579
+  offset: 0, 0
+  index: -1
+Dive/ProDiveSuit/Shirt-Bottom
+  rotate: true
+  xy: 1197, 818
+  size: 402, 495
+  orig: 402, 495
+  offset: 0, 0
+  index: -1
+Dive/SeperateSwimSuit/Shirt-Bottom
+  rotate: true
+  xy: 590, 1557
+  size: 469, 457
+  orig: 469, 457
+  offset: 0, 0
+  index: -1
+Dive/SeperateSwimSuit/Shirt-Chest
+  rotate: false
+  xy: 439, 89
+  size: 443, 588
+  orig: 443, 588
+  offset: 0, 0
+  index: -1
+Dive/Special/Wing/Accessory-Back
+  rotate: false
+  xy: 2, 1383
+  size: 586, 643
+  orig: 586, 643
+  offset: 0, 0
+  index: -1
+Dive/StudentSwimSuit/Shirt-Belly
+  rotate: false
+  xy: 885, 820
+  size: 310, 579
+  orig: 310, 579
+  offset: 0, 0
+  index: -1
+Dive/StudentSwimSuit/Shirt-Bottom
+  rotate: true
+  xy: 1216, 1222
+  size: 401, 498
+  orig: 401, 498
+  offset: 0, 0
+  index: -1
+Dive/StudentSwimSuit/Shirt-Chest
+  rotate: false
+  xy: 2, 2
+  size: 435, 675
+  orig: 435, 675
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 884, 275
+  size: 459, 499
+  orig: 459, 499
+  offset: 0, 0
+  index: -1
+Forearm-1
+  rotate: true
+  xy: 590, 1401
+  size: 154, 624
+  orig: 154, 624
+  offset: 0, 0
+  index: -1
+Forearm-2
+  rotate: true
+  xy: 884, 119
+  size: 154, 625
+  orig: 154, 625
+  offset: 0, 0
+  index: -1
+
+PrettyDiver4.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dive/ProDiveSuit/Shirt-Belly
+  rotate: true
+  xy: 2, 2
+  size: 299, 579
+  orig: 299, 579
+  offset: 0, 0
+  index: -1

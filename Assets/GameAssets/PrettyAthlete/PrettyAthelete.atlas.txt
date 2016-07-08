@@ -1,0 +1,495 @@
+
+PrettyAthelete.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm-1
+  rotate: false
+  xy: 732, 3
+  size: 70, 225
+  orig: 70, 225
+  offset: 0, 0
+  index: -1
+Arm-2
+  rotate: true
+  xy: 273, 248
+  size: 70, 225
+  orig: 70, 225
+  offset: 0, 0
+  index: -1
+Hair-1
+  rotate: false
+  xy: 804, 10
+  size: 102, 159
+  orig: 102, 159
+  offset: 0, 0
+  index: -1
+Hair-3
+  rotate: false
+  xy: 240, 2
+  size: 159, 167
+  orig: 159, 167
+  offset: 0, 0
+  index: -1
+Hand-1
+  rotate: true
+  xy: 80, 326
+  size: 51, 100
+  orig: 51, 100
+  offset: 0, 0
+  index: -1
+Hand-2
+  rotate: true
+  xy: 335, 195
+  size: 51, 100
+  orig: 51, 100
+  offset: 0, 0
+  index: -1
+Hip
+  rotate: true
+  xy: 872, 171
+  size: 137, 150
+  orig: 137, 150
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 704, 283
+  size: 67, 96
+  orig: 67, 96
+  offset: 0, 0
+  index: -1
+Shank-1
+  rotate: true
+  xy: 502, 927
+  size: 94, 374
+  orig: 94, 374
+  offset: 0, 0
+  index: -1
+Shank-2
+  rotate: true
+  xy: 502, 831
+  size: 94, 374
+  orig: 94, 374
+  offset: 0, 0
+  index: -1
+Shoes
+  rotate: false
+  xy: 804, 191
+  size: 58, 37
+  orig: 58, 37
+  offset: 0, 0
+  index: -1
+Shoes-1
+  rotate: false
+  xy: 77, 171
+  size: 127, 58
+  orig: 127, 58
+  offset: 0, 0
+  index: -1
+Shoes-2
+  rotate: false
+  xy: 206, 171
+  size: 127, 58
+  orig: 127, 58
+  offset: 0, 0
+  index: -1
+Thigh-1
+  rotate: true
+  xy: 2, 606
+  size: 115, 307
+  orig: 115, 307
+  offset: 0, 0
+  index: -1
+Thigh-2
+  rotate: true
+  xy: 2, 723
+  size: 115, 321
+  orig: 115, 321
+  offset: 0, 0
+  index: -1
+suits/casual/A-T1-Shirt1
+  rotate: true
+  xy: 77, 379
+  size: 104, 160
+  orig: 104, 160
+  offset: 0, 0
+  index: -1
+suits/casual/A-T1-Shirt3
+  rotate: true
+  xy: 401, 2
+  size: 167, 104
+  orig: 167, 104
+  offset: 0, 0
+  index: -1
+suits/casual/A-T1-Shirt5
+  rotate: true
+  xy: 77, 485
+  size: 119, 161
+  orig: 119, 161
+  offset: 0, 0
+  index: -1
+suits/casual/A-T1-Short3
+  rotate: true
+  xy: 501, 381
+  size: 169, 278
+  orig: 169, 278
+  offset: 0, 0
+  index: -1
+suits/gameAvenge/A-T6-Shirt3
+  rotate: false
+  xy: 2, 231
+  size: 139, 87
+  orig: 139, 87
+  offset: 0, 0
+  index: -1
+suits/gameAvenge/A-T6-Short1
+  rotate: true
+  xy: 325, 664
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+suits/gameAvenge/A-T6-Short2
+  rotate: true
+  xy: 878, 860
+  size: 161, 141
+  orig: 161, 141
+  offset: 0, 0
+  index: -1
+suits/gameAvenge/A-T6-Short3
+  rotate: false
+  xy: 874, 449
+  size: 147, 154
+  orig: 147, 154
+  offset: 0, 0
+  index: -1
+suits/gameReact/A-T5-Short1
+  rotate: true
+  xy: 501, 174
+  size: 205, 201
+  orig: 205, 201
+  offset: 0, 0
+  index: -1
+suits/gameReact/A-T5-Short2
+  rotate: false
+  xy: 873, 310
+  size: 145, 137
+  orig: 145, 137
+  offset: 0, 0
+  index: -1
+suits/gameReact/A-T5-Short3
+  rotate: true
+  xy: 877, 605
+  size: 153, 145
+  orig: 153, 145
+  offset: 0, 0
+  index: -1
+suits/knitsport/A-T4-Hair1
+  rotate: true
+  xy: 311, 536
+  size: 126, 188
+  orig: 126, 188
+  offset: 0, 0
+  index: -1
+suits/knitsport/A-T4-Shirt2
+  rotate: true
+  xy: 2, 2
+  size: 167, 236
+  orig: 167, 236
+  offset: 0, 0
+  index: -1
+suits/sport/A-T3-Shirt2
+  rotate: true
+  xy: 507, 3
+  size: 166, 223
+  orig: 166, 223
+  offset: 0, 0
+  index: -1
+suits/training/A-T2-Shirt1
+  rotate: true
+  xy: 878, 760
+  size: 98, 141
+  orig: 98, 141
+  offset: 0, 0
+  index: -1
+suits/training/A-T2-Shirt3
+  rotate: true
+  xy: 781, 409
+  size: 135, 90
+  orig: 135, 90
+  offset: 0, 0
+  index: -1
+suits/training/A-T2-Shirt5
+  rotate: true
+  xy: 143, 231
+  size: 87, 128
+  orig: 87, 128
+  offset: 0, 0
+  index: -1
+suits/uniform/A-T7-Hand1
+  rotate: true
+  xy: 782, 745
+  size: 84, 93
+  orig: 84, 93
+  offset: 0, 0
+  index: -1
+suits/uniform/A-T7-Shirt1
+  rotate: false
+  xy: 908, 12
+  size: 110, 157
+  orig: 110, 157
+  offset: 0, 0
+  index: -1
+suits/uniform/A-T7-Shirt2
+  rotate: true
+  xy: 240, 320
+  size: 214, 259
+  orig: 214, 259
+  offset: 0, 0
+  index: -1
+suits/uniform/A-T7-Shoe1-1
+  rotate: false
+  xy: 782, 546
+  size: 90, 197
+  orig: 90, 197
+  offset: 0, 0
+  index: -1
+suits/uniform/A-T7-Shoe2
+  rotate: true
+  xy: 781, 230
+  size: 177, 89
+  orig: 177, 89
+  offset: 0, 0
+  index: -1
+suits/uniform/A-T7-Shoe2-1
+  rotate: false
+  xy: 2, 427
+  size: 71, 177
+  orig: 71, 177
+  offset: 0, 0
+  index: -1
+suits/uniform/A-T7-Short1
+  rotate: false
+  xy: 502, 552
+  size: 278, 277
+  orig: 278, 277
+  offset: 0, 0
+  index: -1
+suits/uniform/A-T7-Staff
+  rotate: false
+  xy: 2, 840
+  size: 498, 181
+  orig: 498, 181
+  offset: 0, 0
+  index: -1
+teng
+  rotate: true
+  xy: 2, 171
+  size: 57, 73
+  orig: 57, 73
+  offset: 0, 0
+  index: -1
+transparent
+  rotate: false
+  xy: 273, 233
+  size: 36, 13
+  orig: 36, 13
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: true
+  xy: 2, 324
+  size: 53, 76
+  orig: 53, 76
+  offset: 0, 0
+  index: -1
+
+PrettyAthelete2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Belly
+  rotate: false
+  xy: 240, 355
+  size: 105, 180
+  orig: 105, 180
+  offset: 0, 0
+  index: -1
+Chest
+  rotate: false
+  xy: 330, 557
+  size: 131, 194
+  orig: 131, 194
+  offset: 0, 0
+  index: -1
+Era
+  rotate: false
+  xy: 360, 294
+  size: 78, 82
+  orig: 78, 82
+  offset: 0, 0
+  index: -1
+Face
+  rotate: true
+  xy: 718, 505
+  size: 135, 152
+  orig: 135, 152
+  offset: 0, 0
+  index: -1
+Forearm-1
+  rotate: true
+  xy: 2, 2
+  size: 51, 195
+  orig: 51, 195
+  offset: 0, 0
+  index: -1
+Forearm-2
+  rotate: false
+  xy: 187, 279
+  size: 51, 195
+  orig: 51, 195
+  offset: 0, 0
+  index: -1
+Hair-2
+  rotate: false
+  xy: 590, 439
+  size: 106, 170
+  orig: 106, 170
+  offset: 0, 0
+  index: -1
+suits/casual/A-T1-Shirt2
+  rotate: false
+  xy: 2, 739
+  size: 210, 264
+  orig: 210, 264
+  offset: 0, 0
+  index: -1
+suits/casual/A-T1-Shirt4
+  rotate: false
+  xy: 2, 259
+  size: 183, 215
+  orig: 183, 215
+  offset: 0, 0
+  index: -1
+suits/casual/A-T1-Short1
+  rotate: false
+  xy: 2, 55
+  size: 181, 202
+  orig: 181, 202
+  offset: 0, 0
+  index: -1
+suits/casual/A-T1-Short2
+  rotate: false
+  xy: 2, 476
+  size: 191, 261
+  orig: 191, 261
+  offset: 0, 0
+  index: -1
+suits/gameAvenge/A-T6-Shirt2
+  rotate: false
+  xy: 214, 753
+  size: 182, 250
+  orig: 182, 250
+  offset: 0, 0
+  index: -1
+suits/gameAvenge/A-T6-Shirt4
+  rotate: false
+  xy: 347, 378
+  size: 122, 177
+  orig: 122, 177
+  offset: 0, 0
+  index: -1
+suits/knitsport/A-T4-Hair2
+  rotate: false
+  xy: 195, 537
+  size: 133, 200
+  orig: 133, 200
+  offset: 0, 0
+  index: -1
+suits/knitsport/A-T4-Shirt4
+  rotate: false
+  xy: 471, 401
+  size: 117, 175
+  orig: 117, 175
+  offset: 0, 0
+  index: -1
+suits/sport/A-T3-Shirt4
+  rotate: false
+  xy: 584, 611
+  size: 132, 186
+  orig: 132, 186
+  offset: 0, 0
+  index: -1
+suits/sport/A-T3-Short1
+  rotate: false
+  xy: 710, 824
+  size: 171, 179
+  orig: 171, 179
+  offset: 0, 0
+  index: -1
+suits/sport/A-T3-Short2
+  rotate: false
+  xy: 553, 799
+  size: 155, 204
+  orig: 155, 204
+  offset: 0, 0
+  index: -1
+suits/sport/A-T3-Short3
+  rotate: false
+  xy: 718, 642
+  size: 152, 180
+  orig: 152, 180
+  offset: 0, 0
+  index: -1
+suits/training/A-T2-Shirt2
+  rotate: false
+  xy: 398, 770
+  size: 153, 233
+  orig: 153, 233
+  offset: 0, 0
+  index: -1
+suits/training/A-T2-Shirt4
+  rotate: false
+  xy: 872, 446
+  size: 124, 172
+  orig: 124, 172
+  offset: 0, 0
+  index: -1
+suits/uniform/A-T7-Hair1
+  rotate: false
+  xy: 463, 578
+  size: 119, 190
+  orig: 119, 190
+  offset: 0, 0
+  index: -1
+suits/uniform/A-T7-Hair2
+  rotate: false
+  xy: 883, 808
+  size: 139, 195
+  orig: 139, 195
+  offset: 0, 0
+  index: -1
+suits/uniform/A-T7-Hair3
+  rotate: false
+  xy: 872, 620
+  size: 131, 186
+  orig: 131, 186
+  offset: 0, 0
+  index: -1
+suits/uniform/A-T7-Shirt5.png
+  rotate: true
+  xy: 240, 269
+  size: 84, 118
+  orig: 84, 118
+  offset: 0, 0
+  index: -1
+suits/uniform/A-T7-Shoe1
+  rotate: false
+  xy: 698, 426
+  size: 153, 77
+  orig: 153, 77
+  offset: 0, 0
+  index: -1

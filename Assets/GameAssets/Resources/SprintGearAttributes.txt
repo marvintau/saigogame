@@ -1,0 +1,36 @@
+Gears
+   casual
+      str	6
+      agi   3
+      lck   1
+
+   training
+      str  10
+      agi   5
+      lck   2
+
+   sport
+      str  14
+      agi   7
+      lck   3
+
+   knitsport
+      str  19
+      agi   9
+      lck   4
+
+   gameAvenge
+      str  25
+      agi  13
+      lck   5
+
+   gameReact
+      str  29
+      agi  15
+      lck   6
+
+   uniform
+      str  31
+      agi  16
+      lck   7
+

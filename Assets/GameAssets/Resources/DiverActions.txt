@@ -1,0 +1,276 @@
+Actions
+   101A
+      Difficulty  1.6
+      Class       3
+      Description 向前翻腾半周直体
+      Sequence
+         Inverse  False
+         Set      Stand-Set
+         Begin    Half-Somersault-Straight
+         Rot      -0.5
+         Finish   Half-Somersault-Straight-Open
+
+   101B
+      Difficulty    2.0
+      Class       3
+      Description 向前翻腾半周屈体
+      Sequence
+         Inverse   False
+         Set       Stand-Set
+         Begin     Inverse-Half-Somersault-Pike
+         Rot       0.0
+         Finish    Inverse-Half-Somersault-Pike-Open
+
+   103B
+      Difficulty    2.0
+      Class       3
+      Description 向前翻腾一周半屈体
+      Sequence
+         Inverse   False
+         Set       Inverse-Stand-Set
+         Begin     Somersault-Pike
+         Rot       -1.0
+         Finish    Somersault-Pike-Open
+
+   105B
+      Difficulty    2.4
+      Class       3
+      Description 向前翻腾二周半屈体
+      Sequence
+         Inverse  False
+         Set       Inverse-Stand-Set
+         Begin       Somersault-Pike
+         Rot       -2.0
+         Finish    Somersault-Pike-Open
+
+   107B
+      Difficulty    3.1
+      Class       5
+      Description 向前翻腾三周半屈体
+      Sequence
+         Inverse  False
+         Set       Inverse-Stand-Set
+         Begin       Somersault-Pike
+         Rot       -3.0
+         Finish    Somersault-Pike-Open
+
+   107C
+      Difficulty    3.2
+      Class       5
+      Description 向前翻腾三周半抱膝
+      Sequence
+         Inverse  False
+         Set       Inverse-Stand-Set
+         Begin       Somersault-Tuck
+         Rot       -3.0
+         Finish    Somersault-Tuck-Open
+
+   109C
+      Difficulty    3.7
+      Class       5
+      Description 向前翻腾四周半抱膝
+      Sequence
+         Inverse  False
+         Set       Inverse-Stand-Set
+         Begin       Somersault-Tuck
+         Rot       -4.0
+         Finish    Somersault-Tuck-Open
+
+   201A
+      Difficulty    1.9
+      Class       3
+      Description 向后翻腾半周直体
+      Sequence
+         Inverse   False
+         Set       Stand-Set
+         Begin     Half-Somersault-Straight
+         Rot       0.5
+         Finish    Half-Somersault-Straight-Open
+
+
+   201B
+      Difficulty    2.0
+      Class       3
+      Description 向后翻腾半周屈体
+      Sequence
+         Inverse  False
+         Set       Stand-Set
+         Begin     Half-Somersault-Pike
+         Rot       0.0
+         Finish    Half-Somersault-Pike-Open
+
+   203B
+      Difficulty    2.3
+      Class       3
+      Description 向后翻腾一周半屈体
+      Sequence
+         Inverse   False
+         Set       Stand-Set
+         Begin     Inverse-Somersault-Pike
+         Rot       1.0
+         Finish    Inverse-Somersault-Pike-Open
+
+   205B
+      Difficulty    3.0
+      Class       4
+      Description 向后翻腾二周半屈体
+      Sequence
+         Inverse  False
+         Set       Stand-Set
+         Begin     Inverse-Somersault-Pike
+         Rot       2.0
+         Finish    Inverse-Somersault-Pike-Open
+
+   205C
+      Difficulty    2.7
+      Class       4
+      Description 向后翻腾两周半抱膝
+      Sequence
+         Inverse  False
+         Set       Stand-Set
+         Begin     Inverse-Somersault-Tuck
+         Rot       2.0
+         Finish    Inverse-Somersault-Tuck-Open
+
+   207B
+      Difficulty    3.6
+      Class       5
+      Description 向后翻腾三周半屈体
+      Sequence
+         Inverse  False
+         Set       Stand-Set
+         Begin     Inverse-Somersault-Pike
+         Rot       3.0
+         Finish    Inverse-Somersault-Pike-Open
+
+   207C
+      Difficulty    3.5
+      Class       5
+      Description 向后翻腾三周半抱膝
+      Sequence
+         Inverse  False
+         Set       Stand-Set
+         Begin     Inverse-Somersault-Tuck
+         Rot       3.0
+         Finish    Inverse-Somersault-Tuck-Open
+
+   301A
+      Difficulty    2.0
+      Class       3
+      Description 反身翻腾半周直体
+      Sequence
+         Inverse   True
+         Set       Stand-Set
+         Begin     Half-Somersault-Straight
+         Rot       -0.5
+         Finish    Half-Somersault-Straight-Open
+
+   301B
+      Difficulty    1.9
+      Class       3
+      Description 反身翻腾半周屈体
+      Sequence
+         Inverse   True
+         Set       Stand-Set
+         Begin     Half-Somersault-Pike
+         Rot       0.0
+         Finish    Half-Somersault-Pike-Open
+
+   305B
+      Difficulty    3.0
+      Class       4
+      Description 反身翻腾两周半屈体
+      Sequence
+         Inverse   True
+         Set       Stand-Set
+         Begin     Inverse-Somersault-Pike
+         Rot       -2.0
+         Finish    Inverse-Somersault-Pike-Open
+
+   305C
+      Difficulty    2.8
+      Class       4
+      Description 反身翻腾两周半抱膝
+      Sequence
+         Inverse   True
+         Set       Stand-Set
+         Begin     Inverse-Somersault-Tuck
+         Rot       -2.0
+         Finish    Inverse-Somersault-Tuck-Open
+
+   307C
+      Difficulty    3.4
+      Class       5
+      Description 反身翻腾三周半抱膝
+      Sequence
+         Inverse   True
+         Set       Stand-Set
+         Begin     Inverse-Somersault-Tuck
+         Rot       -3.0
+         Finish    Inverse-Somersault-Tuck-Open
+
+   401A
+      Difficulty    1.7
+      Class       3
+      Description  向内翻腾半周直体
+      Sequence
+         Inverse   True
+         Set       Stand-Set
+         Begin     Half-Somersault-Straight
+         Rot       0.5
+         Finish    Half-Somersault-Straight-Open
+
+   401B
+      Difficulty    2.0
+      Class       3
+      Description  向内翻腾半周屈体
+      Sequence
+         Inverse   True
+         Set       Stand-Set
+         Begin     Inverse-Half-Somersault-Pike
+         Rot       0.0
+         Finish    Inverse-Half-Somersault-Pike-Open
+
+   403B
+      Difficulty    2.4
+      Class       3
+      Description  向内翻腾一周半屈体
+      Sequence
+         Inverse   True
+         Set       Stand-Set
+         Begin     Somersault-Pike
+         Rot       1.0
+         Finish    Somersault-Pike-Open
+
+   405B
+      Difficulty    3.0
+      Class       4
+      Description  向内翻腾二周半屈体
+      Sequence
+         Inverse   True
+         Set       Stand-Set
+         Begin     Somersault-Pike
+         Rot       2.0
+         Finish    Somersault-Pike-Open
+
+   405C
+      Difficulty    2.7
+      Class       4
+      Description  向内翻腾两周半抱膝
+      Sequence
+         Inverse   True
+         Set       Inverse-Stand-Set
+         Begin     Somersault-Tuck
+         Rot       2.0
+         Finish    Somersault-Tuck-Open
+
+   407C
+      Difficulty    3.4
+      Class       5
+      Description  向内翻腾三周半抱膝
+      Sequence
+         Inverse   True
+         Set       Inverse-Stand-Set
+         Begin     Somersault-Tuck
+         Rot       3.0
+         Finish    Somersault-Tuck-Open

@@ -1,0 +1,106 @@
+Gears
+   casual
+      Shirt-Bottom      suits/casual/A-T1-Shirt3
+      Shirt-Belly       suits/casual/A-T1-Shirt4
+      Shirt-Chest       suits/casual/A-T1-Shirt2
+      Shirt-Arm-Front   suits/casual/A-T1-Shirt1
+      Shirt-Arm-Back    suits/casual/A-T1-Shirt5
+      Pants-Hip         suits/casual/A-T1-Short1
+      Pants-Back        suits/casual/A-T1-Short3
+      Pants-Front       suits/casual/A-T1-Short2
+      Shoes-1           Shoes-1
+      Shoes-2           Shoes-2
+      Hair-1            Hair-1
+      Hair-2            Hair-2
+      Hair-3            Hair-3
+
+
+   gameAvenge
+      Shirt-Bottom      suits/gameAvenge/A-T6-Shirt3
+      Shirt-Belly       suits/gameAvenge/A-T6-Shirt4
+      Shirt-Chest       suits/gameAvenge/A-T6-Shirt2
+      Pants-Hip         suits/gameAvenge/A-T6-Short1
+      Pants-Back        suits/gameAvenge/A-T6-Short3
+      Pants-Front       suits/gameAvenge/A-T6-Short2
+      Shirt-Arm-Back    transparent
+      Shirt-Arm-Front   transparent
+      Shoes-1           Shoes-1
+      Shoes-2           Shoes-2
+      Hair-1            suits/knitsport/A-T4-Hair1
+      Hair-2            suits/knitsport/A-T4-Hair2
+      Hair-3            transparent
+
+   gameReact
+      Shirt-Bottom      suits/gameAvenge/A-T6-Shirt3
+      Shirt-Belly       suits/gameAvenge/A-T6-Shirt4
+      Shirt-Chest       suits/gameAvenge/A-T6-Shirt2
+      Pants-Hip         suits/gameReact/A-T5-Short1
+      Pants-Back        suits/gameReact/A-T5-Short3
+      Pants-Front       suits/gameReact/A-T5-Short2
+      Shirt-Arm-Back    transparent
+      Shirt-Arm-Front   transparent
+      Shoes-1           Shoes-1
+      Shoes-2           Shoes-2
+      Hair-1            suits/knitsport/A-T4-Hair1
+      Hair-2            suits/knitsport/A-T4-Hair2
+      Hair-3            transparent
+
+   sport
+      Shirt-Belly       suits/sport/A-T3-Shirt4
+      Shirt-Chest       suits/sport/A-T3-Shirt2
+      Shirt-Bottom      transparent
+      Pants-Hip         suits/sport/A-T3-Short1
+      Pants-Back        suits/sport/A-T3-Short3
+      Pants-Front       suits/sport/A-T3-Short2
+      Shirt-Arm-Back    transparent
+      Shirt-Arm-Front   transparent
+      Shoes-1           Shoes-1
+      Shoes-2           Shoes-2
+      Hair-1            Hair-1
+      Hair-2            Hair-2
+      Hair-3            Hair-3
+
+   training
+      Shirt-Bottom      suits/training/A-T2-Shirt3
+      Shirt-Belly       suits/training/A-T2-Shirt4
+      Shirt-Chest       suits/training/A-T2-Shirt2
+      Shirt-Arm-Back    suits/training/A-T2-Shirt5
+      Shirt-Arm-Front   suits/training/A-T2-Shirt1
+      Pants-Hip         suits/sport/A-T3-Short1
+      Pants-Back        suits/sport/A-T3-Short3
+      Pants-Front       suits/sport/A-T3-Short2
+      Shoes-1           Shoes-1
+      Shoes-2           Shoes-2
+      Hair-1            Hair-1
+      Hair-2            Hair-2
+      Hair-3            Hair-3
+
+   uniform
+      Shirt-Bottom      suits/uniform/A-T7-Short1
+      Shirt-Belly       transparent
+      Shirt-Chest       suits/uniform/A-T7-Shirt2
+      Shirt-Arm-Back    suits/uniform/A-T7-Shirt5.png
+      Shirt-Arm-Front   suits/uniform/A-T7-Shirt1
+      Pants-Hip         suits/casual/A-T1-Short1
+      Pants-Back        suits/casual/A-T1-Short3
+      Pants-Front       suits/casual/A-T1-Short2
+      Shoes-1           suits/uniform/A-T7-Shoe1
+      Shoes-2           suits/uniform/A-T7-Shoe2
+      Hair-1            suits/uniform/A-T7-Hair1
+      Hair-2            suits/uniform/A-T7-Hair2
+      Hair-3            transparent
+
+   knitsport
+      Shirt-Arm-Back    transparent
+      Shirt-Arm-Front   transparent
+      Shirt-Bottom      transparent
+      Shirt-Belly       suits/knitsport/A-T4-Shirt4
+      Shirt-Chest       suits/knitsport/A-T4-Shirt2
+      Pants-Hip         suits/sport/A-T3-Short1
+      Pants-Back        suits/sport/A-T3-Short3
+      Pants-Front       suits/sport/A-T3-Short2
+      Shoes-1           Shoes-1
+      Shoes-2           Shoes-2
+      Hair-1            suits/knitsport/A-T4-Hair1
+      Hair-2            suits/knitsport/A-T4-Hair2
+      Hair-3            transparent

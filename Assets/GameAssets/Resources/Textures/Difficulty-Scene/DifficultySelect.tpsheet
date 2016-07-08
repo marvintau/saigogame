@@ -1,0 +1,26 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:d153edc9d7e6db86af2604f9a844b5db:cb8704e143831b588c0ffb2359059cb3:99e17f7f88d7e273255931436d974357$
+#
+:format=40000
+:texture=DifficultySelect.png
+:size=2048x2048
+:pivotpoints=enabled
+
+back-high;1057;1913;259;84;0.5;0.5
+back-low;1057;1832;255;79;0.5;0.5
+background;1;1437;1054;610;0.5;0.5
+difficulty-back-high;1476;2004;412;43;0.5;0.5
+difficulty-back-low;1476;1959;412;43;0.5;0.5
+difficulty-choosing-high;1318;1873;259;84;0.5;0.5
+difficulty-indicate;1057;1999;417;48;0.5;0.5
+dofficulty-choosing-low;1579;1878;255;79;0.5;0.5
+five-star;1;856;1018;579;0.5;0.5
+four-star;1021;856;1018;579;0.5;0.5
+star;1890;1975;68;72;0.5;0.5
+three-star;1;275;1018;579;0.5;0.5
+tick;1960;2003;62;44;0.5;0.5

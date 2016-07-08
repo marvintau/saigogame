@@ -31,19 +31,19 @@ public class CreateMovableController : Editor {
 
 	void CreateTextureAsset(string path, string name){
 
-		TextureImporter textureImporter = AssetImporter.GetAtPath (path + "Textures/" + name + ".png") as TextureImporter;
+		TextureImporter textureImporter = AssetImporter.GetAtPath (path + "Textures/Game-Scene/" + name + ".png") as TextureImporter;
 		Debug.Log (textureImporter);
 		textureImporter.textureType = TextureImporterType.Image;
 		textureImporter.alphaIsTransparency = true;
 		textureImporter.wrapMode = TextureWrapMode.Repeat;
 		textureImporter.textureFormat = TextureImporterFormat.AutomaticCompressed;
 
-		AssetDatabase.ImportAsset (path + "Textures/" + name + ".png");
+		AssetDatabase.ImportAsset (path + "Textures/Game-Scene/" + name + ".png");
 	}
 
 	void CreateMaterialAsset(string path, string name){
 		Material material = new Material (Shader.Find ("NonAffineCorrected"));
-		material.mainTexture = AssetDatabase.LoadAssetAtPath<Texture> (path + "Textures/" + name + ".png");
+		material.mainTexture = AssetDatabase.LoadAssetAtPath<Texture> (path + "Textures/Game-Scene/" + name + ".png");
 		AssetDatabase.CreateAsset (material, path + "Materials/" + name + ".mat");
 	}
 
@@ -81,14 +81,16 @@ public class CreateMovableController : Editor {
 		r.material = AssetDatabase.LoadAssetAtPath<Material> (path + "Materials/" + fields [0] + ".mat");
 	}
 
-
+	public string backgroundFileSource = "JumpBackgrounds";
 	// Reusable in future.
 
 	public void CreateAssets(){
 
+
 		string path = "Assets/GameAssets/Resources/";
 
-		Indentum.ReadLines ( path + "backgrounds.txt", delegate(string line) {
+		Indentum.ReadLines ( backgroundFileSource, delegate(string line) {
+			Debug.Log(line);
 			if(line.Length != 0 && line[0] != '#'){
 				string[] fields = System.Text.RegularExpressions.Regex.Split (line, @"\s+");
 
@@ -103,7 +105,7 @@ public class CreateMovableController : Editor {
 
 		CreateCamera ();
 
-		Indentum.ReadLines (path + "backgrounds.txt", delegate(string line) {
+		Indentum.ReadLines (backgroundFileSource, delegate(string line) {
 			if (line.Length != 0 && line [0] != '#') {
 				string[] fields = System.Text.RegularExpressions.Regex.Split (line, @"\s+");
 
@@ -119,8 +121,11 @@ public class CreateMovableController : Editor {
 		// Entering changing check area
 		EditorGUI.BeginChangeCheck ();
 
+		backgroundFileSource = GUILayout.TextField (backgroundFileSource);
 		// For controllers
 		EditorGUILayout.BeginHorizontal ();
+
+
 
 		if (GUILayout.Button("Create Assets")){
 			CreateAssets ();

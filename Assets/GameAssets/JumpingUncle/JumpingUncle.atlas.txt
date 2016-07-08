@@ -1,0 +1,544 @@
+
+JumpingUncle.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body/ab
+  rotate: false
+  xy: 1797, 1704
+  size: 193, 340
+  orig: 193, 340
+  offset: 0, 0
+  index: -1
+Body/back-arm
+  rotate: false
+  xy: 340, 178
+  size: 84, 305
+  orig: 84, 305
+  offset: 0, 0
+  index: -1
+Body/back-hand
+  rotate: true
+  xy: 957, 72
+  size: 94, 179
+  orig: 94, 179
+  offset: 0, 0
+  index: -1
+Body/back-leg
+  rotate: true
+  xy: 1041, 1618
+  size: 127, 459
+  orig: 127, 459
+  offset: 0, 0
+  index: -1
+Body/back-thigh
+  rotate: true
+  xy: 994, 1432
+  size: 184, 416
+  orig: 184, 416
+  offset: 0, 0
+  index: -1
+Body/back-upper-arm
+  rotate: false
+  xy: 2, 15
+  size: 167, 441
+  orig: 167, 441
+  offset: 0, 0
+  index: -1
+Body/chest
+  rotate: false
+  xy: 2, 799
+  size: 295, 413
+  orig: 295, 413
+  offset: 0, 0
+  index: -1
+Body/front-arm
+  rotate: false
+  xy: 639, 936
+  size: 84, 305
+  orig: 84, 305
+  offset: 0, 0
+  index: -1
+Body/front-leg
+  rotate: false
+  xy: 299, 753
+  size: 127, 459
+  orig: 127, 459
+  offset: 0, 0
+  index: -1
+Body/front-thigh
+  rotate: true
+  xy: 994, 1246
+  size: 184, 416
+  orig: 184, 416
+  offset: 0, 0
+  index: -1
+Body/front-upper-arm
+  rotate: false
+  xy: 171, 15
+  size: 167, 441
+  orig: 167, 441
+  offset: 0, 0
+  index: -1
+Body/hair
+  rotate: false
+  xy: 1222, 1018
+  size: 219, 226
+  orig: 219, 226
+  offset: 0, 0
+  index: -1
+Body/head
+  rotate: false
+  xy: 428, 900
+  size: 209, 341
+  orig: 209, 341
+  offset: 0, 0
+  index: -1
+Body/hip
+  rotate: false
+  xy: 1443, 765
+  size: 222, 235
+  orig: 222, 235
+  offset: 0, 0
+  index: -1
+Bottom/FlyingShort/Pants-Back
+  rotate: false
+  xy: 340, 12
+  size: 189, 164
+  orig: 189, 164
+  offset: 0, 0
+  index: -1
+Bottom/FlyingShort/Pants-Front
+  rotate: false
+  xy: 766, 2
+  size: 189, 164
+  orig: 189, 164
+  offset: 0, 0
+  index: -1
+Bottom/FlyingShort/Pants-Hip
+  rotate: false
+  xy: 428, 663
+  size: 222, 235
+  orig: 222, 235
+  offset: 0, 0
+  index: -1
+Bottom/LightShort/Pants-Hip
+  rotate: false
+  xy: 426, 426
+  size: 222, 235
+  orig: 222, 235
+  offset: 0, 0
+  index: -1
+Bottom/LooseShort/Pants-Back
+  rotate: false
+  xy: 1801, 1401
+  size: 191, 301
+  orig: 191, 301
+  offset: 0, 0
+  index: -1
+Bottom/LooseShort/Pants-Front
+  rotate: false
+  xy: 1443, 1002
+  size: 191, 301
+  orig: 191, 301
+  offset: 0, 0
+  index: -1
+Bottom/LooseShort/Pants-Hip
+  rotate: false
+  xy: 426, 189
+  size: 222, 235
+  orig: 222, 235
+  offset: 0, 0
+  index: -1
+Bottom/NetShort/Pants-Back
+  rotate: false
+  xy: 1636, 1011
+  size: 191, 301
+  orig: 191, 301
+  offset: 0, 0
+  index: -1
+Bottom/NetShort/Pants-Front
+  rotate: false
+  xy: 1667, 708
+  size: 191, 301
+  orig: 191, 301
+  offset: 0, 0
+  index: -1
+Bottom/NetShort/Pants-Hip
+  rotate: false
+  xy: 1433, 528
+  size: 222, 235
+  orig: 222, 235
+  offset: 0, 0
+  index: -1
+Bottom/ProShort/Pants-Back
+  rotate: true
+  xy: 1221, 581
+  size: 206, 210
+  orig: 206, 210
+  offset: 0, 0
+  index: -1
+Bottom/RacingShort/Pants-Back
+  rotate: true
+  xy: 1221, 581
+  size: 206, 210
+  orig: 206, 210
+  offset: 0, 0
+  index: -1
+Bottom/ProShort/Pants-Front
+  rotate: false
+  xy: 1657, 496
+  size: 206, 210
+  orig: 206, 210
+  offset: 0, 0
+  index: -1
+Bottom/ProShort/Pants-Hip
+  rotate: true
+  xy: 918, 437
+  size: 222, 235
+  orig: 222, 235
+  offset: 0, 0
+  index: -1
+Bottom/RacingShort/Pants-Hip
+  rotate: true
+  xy: 918, 437
+  size: 222, 235
+  orig: 222, 235
+  offset: 0, 0
+  index: -1
+Bottom/RacingShort/Pants-Front
+  rotate: false
+  xy: 650, 182
+  size: 206, 210
+  orig: 206, 210
+  offset: 0, 0
+  index: -1
+Shoes/BonceShoe/Shoe-Back
+  rotate: true
+  xy: 1860, 839
+  size: 259, 162
+  orig: 259, 162
+  offset: 0, 0
+  index: -1
+Shoes/BonceShoe/Shoe-Front
+  rotate: true
+  xy: 1865, 578
+  size: 259, 162
+  orig: 259, 162
+  offset: 0, 0
+  index: -1
+Shoes/DressShoe/Shoe-Back
+  rotate: true
+  xy: 1912, 310
+  size: 266, 118
+  orig: 266, 118
+  offset: 0, 0
+  index: -1
+Shoes/DressShoe/Shoe-Front
+  rotate: true
+  xy: 858, 168
+  size: 266, 118
+  orig: 266, 118
+  offset: 0, 0
+  index: -1
+Shoes/FlyingShoe/Shoe-Back
+  rotate: false
+  xy: 1155, 417
+  size: 259, 162
+  orig: 259, 162
+  offset: 0, 0
+  index: -1
+Shoes/FlyingShoe/Shoe-Front
+  rotate: false
+  xy: 1155, 417
+  size: 259, 162
+  orig: 259, 162
+  offset: 0, 0
+  index: -1
+Shoes/JumpingShoe/Shoe-Back
+  rotate: false
+  xy: 1651, 332
+  size: 259, 162
+  orig: 259, 162
+  offset: 0, 0
+  index: -1
+Shoes/JumpingShoe/Shoe-Front
+  rotate: true
+  xy: 978, 176
+  size: 259, 162
+  orig: 259, 162
+  offset: 0, 0
+  index: -1
+Shoes/LightShoe/Shoe-Back
+  rotate: false
+  xy: 1142, 253
+  size: 259, 162
+  orig: 259, 162
+  offset: 0, 0
+  index: -1
+Shoes/LightShoe/Shoe-Front
+  rotate: false
+  xy: 1142, 89
+  size: 259, 162
+  orig: 259, 162
+  offset: 0, 0
+  index: -1
+Shoes/SkyShoe/Shoe-Back
+  rotate: false
+  xy: 1502, 1619
+  size: 266, 126
+  orig: 266, 126
+  offset: 0, 0
+  index: -1
+Shoes/SkyShoe/Shoe-Front
+  rotate: false
+  xy: 1572, 35
+  size: 266, 126
+  orig: 266, 126
+  offset: 0, 0
+  index: -1
+Shoes/Slipper/Shoe-Back
+  rotate: true
+  xy: 650, 394
+  size: 267, 119
+  orig: 267, 119
+  offset: 0, 0
+  index: -1
+Shoes/TennisShoe/Shoe-Back
+  rotate: true
+  xy: 280, 485
+  size: 266, 144
+  orig: 266, 144
+  offset: 0, 0
+  index: -1
+Shoes/TennisShoe/Shoe-Front
+  rotate: true
+  xy: 771, 436
+  size: 258, 145
+  orig: 258, 145
+  offset: 0, 0
+  index: -1
+Special/Bag/Accessory-Bag
+  rotate: true
+  xy: 2, 458
+  size: 339, 276
+  orig: 339, 276
+  offset: 0, 0
+  index: -1
+Special/BlueHair/Accessory-Head
+  rotate: false
+  xy: 1222, 789
+  size: 219, 227
+  orig: 219, 227
+  offset: 0, 0
+  index: -1
+Special/ExplodeHair/Accessory-Head
+  rotate: false
+  xy: 695, 1680
+  size: 344, 364
+  orig: 344, 364
+  offset: 0, 0
+  index: -1
+Special/HeadBand/Accessory-HeadBand
+  rotate: true
+  xy: 1412, 1305
+  size: 311, 192
+  orig: 311, 192
+  offset: 0, 0
+  index: -1
+Top/FlyingTop/Shirt-Belly
+  rotate: false
+  xy: 725, 997
+  size: 193, 300
+  orig: 193, 300
+  offset: 0, 0
+  index: -1
+Top/FlyingTop/Shirt-Chest
+  rotate: false
+  xy: 2, 1630
+  size: 392, 414
+  orig: 392, 414
+  offset: 0, 0
+  index: -1
+Top/JumpingTop/Shirt-Belly
+  rotate: false
+  xy: 1606, 1314
+  size: 193, 303
+  orig: 193, 303
+  offset: 0, 0
+  index: -1
+Top/JumpingTop/Shirt-Chest
+  rotate: true
+  xy: 1422, 1747
+  size: 297, 373
+  orig: 297, 373
+  offset: 0, 0
+  index: -1
+Top/LightTop/Shirt-Bottom
+  rotate: true
+  xy: 920, 1051
+  size: 193, 300
+  orig: 193, 300
+  offset: 0, 0
+  index: -1
+Top/LightTop/Shirt-Chest
+  rotate: false
+  xy: 2, 1214
+  size: 392, 414
+  orig: 392, 414
+  offset: 0, 0
+  index: -1
+Top/NetTop/Shirt-Arm-Back
+  rotate: true
+  xy: 1416, 359
+  size: 167, 233
+  orig: 167, 233
+  offset: 0, 0
+  index: -1
+Top/NetTop/Shirt-Arm-Front
+  rotate: false
+  xy: 1403, 124
+  size: 167, 233
+  orig: 167, 233
+  offset: 0, 0
+  index: -1
+Top/NetTop/Shirt-Belly 
+  rotate: true
+  xy: 920, 856
+  size: 193, 300
+  orig: 193, 300
+  offset: 0, 0
+  index: -1
+Top/NetTop/Shirt-Chest
+  rotate: false
+  xy: 396, 1243
+  size: 297, 382
+  orig: 297, 382
+  offset: 0, 0
+  index: -1
+Top/ProTop/Shirt-Arm-Back
+  rotate: true
+  xy: 1572, 163
+  size: 167, 233
+  orig: 167, 233
+  offset: 0, 0
+  index: -1
+Top/ProTop/Shirt-Arm-Front
+  rotate: true
+  xy: 531, 13
+  size: 167, 233
+  orig: 167, 233
+  offset: 0, 0
+  index: -1
+Top/ProTop/Shirt-Belly
+  rotate: false
+  xy: 725, 696
+  size: 193, 299
+  orig: 193, 299
+  offset: 0, 0
+  index: -1
+Top/ProTop/Shirt-Chest
+  rotate: false
+  xy: 695, 1299
+  size: 297, 379
+  orig: 297, 379
+  offset: 0, 0
+  index: -1
+Top/RacingTop/Shirt-Arm-Back
+  rotate: false
+  xy: 1840, 75
+  size: 167, 233
+  orig: 167, 233
+  offset: 0, 0
+  index: -1
+Top/RacingTop/Shirt-Belly
+  rotate: true
+  xy: 920, 661
+  size: 193, 299
+  orig: 193, 299
+  offset: 0, 0
+  index: -1
+Top/RacingTop/Shirt-Chest
+  rotate: true
+  xy: 1041, 1747
+  size: 297, 379
+  orig: 297, 379
+  offset: 0, 0
+  index: -1
+Top/SuitTop/Shirt-Belly
+  rotate: false
+  xy: 1829, 1100
+  size: 193, 299
+  orig: 193, 299
+  offset: 0, 0
+  index: -1
+Top/SuitTop/Shirt-Chest
+  rotate: false
+  xy: 396, 1627
+  size: 297, 417
+  orig: 297, 417
+  offset: 0, 0
+  index: -1
+transparent
+  rotate: false
+  xy: 994, 1646
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+
+JumpingUncle2.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body/front-hand
+  rotate: true
+  xy: 509, 21
+  size: 94, 179
+  orig: 94, 179
+  offset: 0, 0
+  index: -1
+Bottom/LightShort/Pants-Back
+  rotate: false
+  xy: 778, 71
+  size: 189, 164
+  orig: 189, 164
+  offset: 0, 0
+  index: -1
+Bottom/LightShort/Pants-Front
+  rotate: false
+  xy: 969, 71
+  size: 189, 164
+  orig: 189, 164
+  offset: 0, 0
+  index: -1
+Shoes/Slipper/Shoe-Front
+  rotate: false
+  xy: 509, 117
+  size: 267, 118
+  orig: 267, 118
+  offset: 0, 0
+  index: -1
+Top/RacingTop/Shirt-Arm-Front
+  rotate: false
+  xy: 2, 2
+  size: 167, 233
+  orig: 167, 233
+  offset: 0, 0
+  index: -1
+Top/SuitTop/Shirt-Arm-Back
+  rotate: false
+  xy: 171, 2
+  size: 167, 233
+  orig: 167, 233
+  offset: 0, 0
+  index: -1
+Top/SuitTop/Shirt-Arm-Front
+  rotate: false
+  xy: 340, 2
+  size: 167, 233
+  orig: 167, 233
+  offset: 0, 0
+  index: -1

@@ -6,7 +6,7 @@ Commercial      10       0.1    0       0.21
 Audience        11       0      0       0.21      
 Grass           12       0      0       0.24      
 Seats           13       0      0       0.21      
-TrackLine       14       0.4    0.8     0.5       
-Tracks          15       0.4q    0       0.5       
+TrackLine       14       0.4    0.8     0.5
+Tracks          15       0.4    0       0.5       
 CloudBack       16       0      0       0.02      
-Sky             17       0      0       0         
+Sky             17       0      0       0

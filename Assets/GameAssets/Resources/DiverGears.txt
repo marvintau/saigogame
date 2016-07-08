@@ -1,0 +1,36 @@
+Gears
+   BalletSuit
+      Gear-Waist		Dive/BalletSuit/Accessory-Waist
+      Gear-Belly		Dive/BalletSuit/Shirt-Belly
+      Gear-Bottom		Dive/BalletSuit/Shirt-Bottom
+      Gear-Chest		Dive/BalletSuit/Shirt-Chest
+
+   Bikini
+      Gear-Waist		transparent
+      Gear-Belly		transparent
+      Gear-Bottom		Dive/Bikini/Shirt-Bottom
+      Gear-Chest		Dive/Bikini/Shirt-Chest
+
+   ElasticSwimSuit
+      Gear-Waist		transparent
+      Gear-Belly		Dive/ElasticSwimSuit/Shirt-Belly
+      Gear-Bottom		Dive/ElasticSwimSuit/Shirt-Bottom
+      Gear-Chest		Dive/ElasticSwimSuit/Shirt-Chest
+
+   ProDiveSuit
+      Gear-Waist		transparent
+      Gear-Belly		Dive/ProDiveSuit/Shirt-Belly
+      Gear-Bottom		Dive/ProDiveSuit/Shirt-Bottom
+      Gear-Chest		Dive/ProDiveSuit/Shirt-Chest
+
+   SeparateSwimSuit
+      Gear-Waist		transparent
+      Gear-Belly		Dive/SeperateSwimSuit/Shirt-Belly
+      Gear-Bottom		Dive/SeperateSwimSuit/Shirt-Bottom
+      Gear-Chest		Dive/SeperateSwimSuit/Shirt-Chest
+
+   StudentSwimSuit
+      Gear-Waist		transparent
+      Gear-Belly		Dive/StudentSwimSuit/Shirt-Belly
+      Gear-Bottom		Dive/StudentSwimSuit/Shirt-Bottom
+      Gear-Chest		Dive/StudentSwimSuit/Shirt-Chest

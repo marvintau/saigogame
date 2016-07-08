@@ -11,7 +11,7 @@ public class MovableBackground : MonoBehaviour{
 	public float  initialOffset;
 	public float  initialScrollSpeed;
 	private float scrollSpeed;
-	private float offset;
+	public float offset;
 
 	public bool isMoving;
 
@@ -71,5 +71,6 @@ public class MovableBackground : MonoBehaviour{
 	void Update(){
 		if(isMoving)
 			Scroll ();
+
 	}
 }
